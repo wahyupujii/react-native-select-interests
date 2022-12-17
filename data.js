@@ -1,0 +1,80 @@
+export default [
+    {
+        id: 1,
+        name: "Technology",
+        image: require("./assets/images/technology.png"),
+        isSelected: false,
+    },
+    {
+        id: 2,
+        name: "Aerospace",
+        image: require("./assets/images/aerospace.png"),
+        isSelected: false,
+    },
+    {
+        id: 3,
+        name: "Energy",
+        image: require("./assets/images/energy.png"),
+        isSelected: false,
+    },
+    {
+        id: 4,
+        name: "Agriculture",
+        image: require("./assets/images/agriculture.png"),
+        isSelected: false,
+    },
+    {
+        id: 5,
+        name: "Chemical",
+        image: require("./assets/images/chemical.png"),
+        isSelected: false,
+    },
+    {
+        id: 6,
+        name: "Media",
+        image: require("./assets/images/media.png"),
+        isSelected: false,
+    },
+    {
+        id: 7,
+        name: "Food&Drinks",
+        image: require("./assets/images/food.png"),
+        isSelected: false,
+    },
+    {
+        id: 8,
+        name: "Health Care",
+        image: require("./assets/images/health.png"),
+        isSelected: false,
+    },
+    {
+        id: 9,
+        name: "Environment",
+        image: require("./assets/images/environment.png"),
+        isSelected: false,
+    },
+    {
+        id: 10,
+        name: "Education",
+        image: require("./assets/images/education.png"),
+        isSelected: false,
+    },
+    {
+        id: 11,
+        name: "web3",
+        image: require("./assets/images/web3.png"),
+        isSelected: false,
+    },
+    {
+        id: 12,
+        name: "Logistics",
+        image: require("./assets/images/logistics.png"),
+        isSelected: false,
+    },
+    {
+        id: 13,
+        name: "Metaverse",
+        image: require("./assets/images/metaverse.png"),
+        isSelected: false,
+    },
+]
